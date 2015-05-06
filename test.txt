@@ -1,3 +1,4 @@
 changes made by S1
 S2 in featureA branch
 mergin featureB into master S1
+smartGit
